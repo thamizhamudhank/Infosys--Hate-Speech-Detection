@@ -1,1 +1,1 @@
-# thamizhamudhank-Infosys--Hate-Speech-Detection
+# Hate-Speech-Detection-with-Machine-Learning
